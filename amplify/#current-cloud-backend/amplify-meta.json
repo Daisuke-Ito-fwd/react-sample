@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactsample-ssg-54725-authRole",
+      "UnauthRoleArn": "arn:aws:iam::579075652187:role/amplify-reactsample-ssg-54725-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::579075652187:role/amplify-reactsample-ssg-54725-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reactsample-ssg-54725-deployment",
+      "UnauthRoleName": "amplify-reactsample-ssg-54725-unauthRole",
+      "StackName": "amplify-reactsample-ssg-54725",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:579075652187:stack/amplify-reactsample-ssg-54725/1d3c9de0-81bc-11ed-a6cd-0e696ac94747",
+      "AmplifyAppId": "d1goju9juz79ae"
+    }
+  }
+}
